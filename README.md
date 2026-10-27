@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on a school assignment
+- 🌱 I’m currently learning how to code 
+- 👯 I’m looking to collaborate on with my classmates?
+- 🤔 I’m looking for help with learning about codes 
+- 💬 Ask me about everything i guess?
+- 📫 How to reach me: my email 
+- 😄 Pronouns: him
+- ⚡ Fun fact: ive been coding since i was like 10
+
